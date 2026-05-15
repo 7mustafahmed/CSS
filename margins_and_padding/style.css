@@ -1,0 +1,17 @@
+div{
+
+border: solid;color: red;
+    /* padding: top 10px; 
+    padding: left 10px; 
+    padding: right 10px; */
+
+    padding: 20px;
+    background-color: black;
+    color: aquamarine;
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+
+
